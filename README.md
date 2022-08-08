@@ -24,3 +24,7 @@ This project has been tested on a NVIDIA RTX 3050
 
 to host the application on the local device run 
 >python3 app.py
+
+The host should open the following webpage
+
+![1](https://user-images.githubusercontent.com/65519637/183474728-25cb8ec1-7932-4ce8-9009-9f4eea763bdf.jpg)
