@@ -7,7 +7,7 @@ This is an Machine learning project built on the concepts of object detection an
 
 ## Getting started
 Get a copy of this project by simply running the git clone command.
-> git clone 
+> git clone https://github.com/NitpreetB/Object-Detection-and-Pose-Tracking.git
 
 ## Requirements
 
@@ -17,6 +17,7 @@ Before running the project, please install all the requirments using command
 ### GPU requirements 
 This projects requires a GPU with CUDA setup. to setup CUDA please refer to the CUDA installation guide
 >https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+
 This project has been tested on a NVIDIA RTX 3050
 
 ## Running application
