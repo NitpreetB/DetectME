@@ -1,4 +1,4 @@
-# Object-Detection-and-Pose-Tracking
+# DetectME
 
 ![gif1](https://user-images.githubusercontent.com/65519637/183447585-91dc28d1-0ab0-4f5b-96a4-c3c44b424905.gif)
 ![gif2](https://user-images.githubusercontent.com/65519637/183451460-1ccea3e2-9b78-4db7-9cf9-ec1479d6a50e.gif)
