@@ -26,5 +26,6 @@ to host the application on the local device run
 >python3 app.py
 
 The host should open the following webpage
-
-![1](https://user-images.githubusercontent.com/65519637/183474728-25cb8ec1-7932-4ce8-9009-9f4eea763bdf.jpg)
+![Screenshot 2022-08-19 001754](https://user-images.githubusercontent.com/65519637/189798849-9ab6aa1b-a0bd-4214-9fd2-dbb77836b81f.jpg)
+![Screenshot 2022-08-19 004823](https://user-images.githubusercontent.com/65519637/189798950-ea717d35-3571-4352-a6a3-d84885b83a46.jpg)
+![Screenshot 2022-08-19 004852](https://user-images.githubusercontent.com/65519637/189799357-6aa5d342-95ac-482c-9c7e-ea225c3bc667.jpg)
