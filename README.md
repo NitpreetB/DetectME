@@ -1,5 +1,11 @@
 # DetectME
 
+##Front-Page
+
+![Screenshot from 2023-03-13 22-33-21](https://user-images.githubusercontent.com/65519637/224877923-7618d44d-357c-4cbe-9734-b795d0fa2076.png)
+![Screenshot from 2023-03-13 22-35-02](https://user-images.githubusercontent.com/65519637/224878267-71701f0f-74cf-469f-a381-ee3468b22476.png)
+![Screenshot from 2023-03-13 22-35-39](https://user-images.githubusercontent.com/65519637/224878277-851cbde0-0c63-450d-b12e-1a38766aef15.png)
+
 ## App Features
 
 ![gif1](https://user-images.githubusercontent.com/65519637/183447585-91dc28d1-0ab0-4f5b-96a4-c3c44b424905.gif)
