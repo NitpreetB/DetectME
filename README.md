@@ -1,5 +1,7 @@
 # DetectME
 
+This is a Machine learning project built on the concepts of object detection and pose detection. As a competitive basketball player, I am always looking to improve my game and refine my craft. Furthermore, as a big fan of the NBA, I am always inspired by the professional players and the skill moves they are able to pull off. Therefore, I thought it would be fascinating to create an application that would be able to detect and compare my gameplay to that of professional basketball players. However, as a preliminary step to this ultimate goal, I first needed to create an application that would be able to complete both object detection and pose tracking in real-time.
+
 ## Front-Page
 
 ![Screenshot from 2023-03-13 22-35-02](https://user-images.githubusercontent.com/65519637/224878267-71701f0f-74cf-469f-a381-ee3468b22476.png)
@@ -13,9 +15,6 @@
 ## Ball Path Tracking
 !![football_detection](https://user-images.githubusercontent.com/65519637/224874164-953d9448-9c9a-4bf0-a5c5-4aba0b314993.gif)
 !![basketball_detection](https://user-images.githubusercontent.com/65519637/224876261-795e9efd-3936-4e75-955a-5d2d0d08e98e.gif)
-
-
-This is a Machine learning project built on the concepts of object detection and pose detection. As a competitive basketball player, I am always looking to improve my game and refine my craft. Furthermore, as a big fan of the NBA, I am always inspired by the professional players and the skill moves they are able to pull off. Therefore, I thought it would be fascinating to create an application that would be able to detect and compare my gameplay to that of professional basketball players. However, as a preliminary step to this ultimate goal, I first needed to create an application that would be able to complete both object detection and pose tracking in real-time.
 
 ## Getting started
 Get a copy of this project by simply running the git clone command.
